@@ -5,7 +5,7 @@ Hi! I've been on the project *Signs on Screen Project* since 2025. Tutorials in 
 
 ---
 
-大家好！本项目开始于2025年。本项目旨在教授影视作品中出现的手语。视频教程发布在B站（未来开通YouTube油管账号，可能），相对应的撰写搞发布在GitHub，请大家自行下载。
+大家好！本项目开始于2025年。本项目旨在教授影视作品中出现的手语。视频教程发布在B站（未来开通YouTube油管账号，可能），相对应的转写搞发布在GitHub，请大家自行下载。
 
 # Table of Contents
 - [Chinese Dramas and Sign Language](#chinese-dramas-and-sign-language)
