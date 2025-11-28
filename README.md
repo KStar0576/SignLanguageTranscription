@@ -19,7 +19,6 @@ Hi! I've been on the project *Signs on Screen Project* since 2025. Tutorials in 
 
 ## Chinese Dramas and Sign Language
 ### 2009, Hear Me, 听说
-- 听说
 - IMDb: tt1562328
 - BiliBili
   - Episode 1/3: https://www.bilibili.com/video/BV1k44VzxE3W
